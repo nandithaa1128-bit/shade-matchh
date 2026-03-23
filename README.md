@@ -100,9 +100,19 @@ The `shades.csv` dataset is sourced from Kaggle and enriched with:
 
 ---
 
+## Preview
+Screenshots: 
+<img width="849" height="759" alt="Screenshot 2026-03-23 134554" src="https://github.com/user-attachments/assets/cd6c0b8f-93f2-4374-a78a-c9989db39a23" />
+<img width="848" height="638" alt="Screenshot 2026-03-23 134655" src="https://github.com/user-attachments/assets/4c4eb563-c95c-47de-9075-cc801e270d59" />
+<img width="871" height="735" alt="Screenshot 2026-03-23 134646" src="https://github.com/user-attachments/assets/6f670172-0df4-4062-b4bd-efc45cc5c2ab" />
+<img width="883" height="814" alt="Screenshot 2026-03-23 134638" src="https://github.com/user-attachments/assets/51008186-ca52-4208-bb6a-c937d7ad3a04" />
+<img width="875" height="828" alt="Screenshot 2026-03-23 134605" src="https://github.com/user-attachments/assets/520b590f-f9b8-424e-8cc3-1d968bea5066" />
+
+
 ## License
 
 MIT License
 ---
 ## Author 
 Nanditha A
+
